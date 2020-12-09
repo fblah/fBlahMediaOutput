@@ -10,4 +10,4 @@ The fBlah Media Output plugin for Unreal Engine 4 allows users to output frames 
 ## Community
 Please join us on Discord to offer contributions, feedback, requests and suggestions. Also consider funding the project to support development.
 
-Copyright (c) 2019-2020 Ajit Christopher  D'Monte (fBlah)
+Copyright (c) 2019 Ajit Christopher  D'Monte (fBlah)
