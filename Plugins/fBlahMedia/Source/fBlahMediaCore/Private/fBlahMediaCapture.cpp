@@ -13,6 +13,7 @@
 #include "Common/TcpSocketBuilder.h"
 #include "Async/Async.h"
 #include "Engine/NetDriver.h"
+#include <algorithm>
 
 DEFINE_LOG_CATEGORY(LogfBlahMediaCapture);
 
