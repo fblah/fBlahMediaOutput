@@ -7,6 +7,7 @@
 
 #include "WebSockets/Public/WebSocketsModule.h"
 #include "Async/Async.h"
+#include <string>
 
 DEFINE_LOG_CATEGORY(LogfBlahMediaWSCapture);
 
