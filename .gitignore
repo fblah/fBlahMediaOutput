@@ -45,9 +45,6 @@ temp/
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
-# Binary Files
-Plugins/*/Binaries/*
-
 # Builds
 Build/*
 

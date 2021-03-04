@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"fBlahMediaCore": "UE4Editor-fBlahMediaCore.dll",
+		"fBlahMediaEditor": "UE4Editor-fBlahMediaEditor.dll"
+	}
+}
