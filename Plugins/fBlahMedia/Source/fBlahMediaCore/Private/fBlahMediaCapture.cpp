@@ -26,7 +26,7 @@ public:
 	}
 };
 
-void UfBlahMediaCapture::OnFrameCaptured_RenderingThread(const FCaptureBaseData& InBaseData, TSharedPtr<FMediaCaptureUserData, ESPMode::ThreadSafe> InUserData, void* InBuffer, int32 Width, int32 Height)
+void UfBlahMediaCapture::OnFrameCaptured_RenderingThread(const FCaptureBaseData& InBaseData, TSharedPtr<FMediaCaptureUserData, ESPMode::ThreadSafe> InUserData, void* InBuffer, int32 Width, int32 Height, int32 BytesPerRow)
 {
 	FScopeLock ScopeLock(&RenderThreadCriticalSection);
 	//UE_LOG(LogfBlahMediaCapture, Error, TEXT("Render"));
